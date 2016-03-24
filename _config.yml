@@ -1,0 +1,28 @@
+name: Brett Combs
+favicon: null
+layout_spectrum: 0.5336999406572431
+typography_spectrum: 0.6020439392887056
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.8472993324976414
+  lightness: 0.8050300504546613
+  saturation: 0.8012804666068405
+  rhythmicContrast: 0.1111212195828557
+purpose: []
