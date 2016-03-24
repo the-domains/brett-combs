@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Brett Combs]]></title>
+        <description><![CDATA[Brett Combs]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 24 Mar 2016 17:30:57 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b1f09a67-15e2-4bb5-8786-f26766d94897.jpg">]]></description>
+            <link>undefinedthis-is-my-very-first-point-using-the-grid/index.html</link>
+            <guid isPermaLink="false">ca49e5b8-51d0-44e8-9423-9ef31dcf0848</guid>
+            <pubDate>Thu, 24 Mar 2016 17:30:32 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
